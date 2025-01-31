@@ -16,7 +16,7 @@ def home(request, *args, **kwargs) -> Response:
     data = {
         "email" : "davidnduonofit47@gmail.com",
         "current_datetime" : current_date,
-        "github_url" : 'https://github.com/Forsaken324/HNG-STAGE-0.git'
+        "github_url" : 'https://github.com/Forsaken324/HNG-STAGE-0'
     }
 
     return Response(data, status=HTTP_200_OK)
