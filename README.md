@@ -14,7 +14,7 @@ The API is publicly accessible and follows best practices, including CORS handli
 - **Programming Language:** Python
 - **Framework:** Django REST Framework (DRF)
 - **Database:** Not required for this project
-- **Deployment:** [Specify your hosting provider, e.g., Render, Railway, Vercel, or AWS]
+- **Deployment:** Railway
 - **Version Control:** GitHub
 
 ---
@@ -78,7 +78,7 @@ The API should now be accessible at `http://127.0.0.1:8000/`.
 
 ## Deployment
 This API is deployed and publicly accessible at:  
-➡️ **[https://your-deployment-url.com](https://your-deployment-url.com)**  
+➡️ **https://web-production-db7c5.up.railway.app/**  
 
 ### Deployment Steps:
 1. Choose a hosting provider (e.g., Render, Railway, Vercel, or AWS).
